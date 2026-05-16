@@ -1,7 +1,3 @@
-Here's the README rewritten in a natural, human tone:
-
----
-
 # Emotion Detection AI
 
 So I built this project to tackle something I kept running into — businesses drowning in customer feedback with no good way to understand how people actually *feel*. Reviews, support chats, social media comments — there's so much text, and the emotion behind it gets completely lost when you're processing it manually at scale.
@@ -169,6 +165,5 @@ A few things I want to add when I get back to this:
 
 ## About Me
 
-I'm Shubham Panchal — I work on data analytics, machine learning, and NLP projects. This one came out of a genuine curiosity about whether you could reliably detect emotion from text at scale (short answer: yes, pretty well).
-
-If you want to connect: LinkedIn-   www.linkedin.com/in/shubham-panchal-a100282a8
+I'm Shubham Panchal — I work on data analytics,data science machine learning, and NLP projects. This one came out of a genuine curiosity about whether you could reliably detect emotion from text at scale (short answer: yes, pretty well).
+LinkedIn-   www.linkedin.com/in/shubham-panchal-a100282a8
