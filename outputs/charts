@@ -1,0 +1,1 @@
+plt.savefig("outputs/charts/emotion_distribution.png")

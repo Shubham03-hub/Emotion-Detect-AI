@@ -1,0 +1,3 @@
+# scripts/train.py
+def train_model():
+    ...

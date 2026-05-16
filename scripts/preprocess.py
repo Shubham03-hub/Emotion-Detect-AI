@@ -1,0 +1,3 @@
+# scripts/preprocess.py
+def clean_text(text):
+    ...
